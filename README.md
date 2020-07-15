@@ -1,5 +1,4 @@
-# DDOS-Batch-File
-
-This is a small file that can ping any website/ip to death.
-
-Remember, this does use YOUR bandwidth.
+<h1 align="center">
+<br>
+|DDOS BATCH FILE|
+</br>
