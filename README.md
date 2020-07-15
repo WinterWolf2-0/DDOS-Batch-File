@@ -13,4 +13,4 @@ WARNING: USES YOUR BANDWIDTH.
 We have 0 liability for anything you do with our program.
 </i>
   
-Please use this for legal purposes.
+Please use this for lawful purposes only.
