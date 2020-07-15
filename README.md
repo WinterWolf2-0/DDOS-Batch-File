@@ -7,3 +7,8 @@
 <br>
 WARNING: USES YOUR BANDWIDTH.
 </br>
+
+<p align="center">
+<i>
+We have 0 liability for anything you do with our program.
+</i>
