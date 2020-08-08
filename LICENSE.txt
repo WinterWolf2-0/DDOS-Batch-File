@@ -4,4 +4,4 @@ Copyright (c) 2020 WinterWolf2-0
 
 Article 1 (Permissions/Conditions): The third party [Which will be referred as "the user" from now on] has permission to use, modify, and redistribute this software on the following conditions: You give credit to the contributors, and keep the licensing and this disclaimer onto the redistributed copy of this software. And, if you make your copy public, it must be open source.
 
-Article 2 (Limitations): The First Party [Which will be referred as "Us/We" from now on] has added a few limitations to the project, 1: No warranty is included with the software. 2: We have NO liability for anything you do, this is project is purely for educational purposes. 
+Article 2 (Limitations): The First Party [Which will be referred as "Us/We" from now on] has added a few limitations to the project, 1: No warranty is included with the software. 2: We have NO liability for anything you do, this project is purely for educational purposes. 
